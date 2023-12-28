@@ -6,3 +6,5 @@ PART 1: VERILOG(First 50 Days)
 Here is the list of Day wise RTL Codes:
 
 Day 1: Half Adder
+
+Day 2: Full Adder
