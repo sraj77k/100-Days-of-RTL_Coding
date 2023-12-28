@@ -3,7 +3,7 @@
 module full_tb();
 reg a,b,cin;
 wire s,c;
-full_adder uut(a,b,cin,s,c);
+full_adder dut(a,b,cin,s,c);
 initial begin
 a=0;b=0;cin=0;
 #100
