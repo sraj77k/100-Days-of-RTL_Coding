@@ -8,3 +8,5 @@ Here is the list of Day wise RTL Codes:
 Day 1: Half Adder
 
 Day 2: Full Adder
+
+Day 3: Half Subtractor
