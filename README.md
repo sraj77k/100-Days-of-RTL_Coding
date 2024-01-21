@@ -18,3 +18,9 @@ Day 5: Multiplexer(8x1)
 Day 6: Demultiplexer(1x8)
 
 Day 7: N-bit Parallel Adder
+
+Day 8: Decoder(3x8)
+
+Day 9: BCD to 7-Segment display
+
+Day 10: Priority Encoder(8x3)
