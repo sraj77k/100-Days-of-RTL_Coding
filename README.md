@@ -16,3 +16,5 @@ Day 4: Full Subtractor
 Day 5: Multiplexer(8x1)
 
 Day 6: Demultiplexer(1x8)
+
+Day 7: N-bit Parallel Adder
