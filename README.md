@@ -12,3 +12,7 @@ Day 2: Full Adder
 Day 3: Half Subtractor
 
 Day 4: Full Subtractor
+
+Day 5: Multiplexer(8x1)
+
+Day 6: Demultiplexer(1x8)
