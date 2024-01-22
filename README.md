@@ -24,3 +24,5 @@ Day 8: Decoder(3x8)
 Day 9: BCD to 7-Segment display
 
 Day 10: Priority Encoder(8x3)
+
+Day 11: 4-Bit CarrylookAhead Adder
