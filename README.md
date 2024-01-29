@@ -29,4 +29,6 @@ Day 11: 4-Bit CarrylookAhead Adder
 
 Day 12: N-bit Comparator
 
+Day 13: SR-Latch
+
 
