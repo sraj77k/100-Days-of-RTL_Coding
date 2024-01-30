@@ -31,4 +31,6 @@ Day 12: N-bit Comparator
 
 Day 13: SR-Latch
 
+Day 14: SR-FlipFlop
+
 
