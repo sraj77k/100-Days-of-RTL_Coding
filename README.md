@@ -35,4 +35,6 @@ Day 14: SR-FlipFlop
 
 Day 15: JK-FlipFlop
 
+Day 16: D-FlipFlop
+
 
